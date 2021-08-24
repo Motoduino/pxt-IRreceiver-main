@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=github:Wei-ting-xsza/pxt-IRreceiver
+tools=github:Motoduino/pxt-IRreceiver
 ```
