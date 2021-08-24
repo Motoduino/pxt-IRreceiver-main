@@ -1,0 +1,16 @@
+{
+    "name": "IRreceiver",
+    "version": "1.0.0",
+    "description": "IR receiver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/IRreceiver-strings.json"
+    ],
+    "public": true
+}
